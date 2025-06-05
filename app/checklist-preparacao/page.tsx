@@ -73,7 +73,7 @@ export default function ChecklistPreparacaoPage() {
                   {item.text}
                   {item.citation && (
                     <span className="text-xs text-blue-500 ml-1">
-                      {Array.isArray(item.citation) ? item.citation.map(c => ``).join(' ') : ``}
+                      {Array.isArray(item.citation) ? item.citation.map(() => ``).join(' ') : ``}
                     </span>
                   )}
                 </span>
