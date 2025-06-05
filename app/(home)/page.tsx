@@ -1,4 +1,3 @@
-// app/page.tsx
 import Link from "next/link";
 import SectionTitle from "../../components/section-title";
 

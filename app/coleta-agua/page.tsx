@@ -1,4 +1,3 @@
-// app/coleta-agua/page.tsx
 import SectionTitle from '../../components/section-title';
 
 export default function ColetaAguaPage() {

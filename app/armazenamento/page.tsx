@@ -1,4 +1,4 @@
-import SectionTitle from '../../components/section-title'; // Supondo que SectionTitle está em app/components
+import SectionTitle from '../../components/section-title';
 
 export default function ArmazenamentoSeguroPage() {
   return (

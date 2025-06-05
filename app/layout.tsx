@@ -1,8 +1,8 @@
-import './globals.css'; // Arquivo CSS global (incluindo imports do Tailwind)
+import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
-import Navbar from '../components/navbar'; // Exemplo de Navbar
-import Footer from '../components/footer'; // Exemplo de Footer
+import Navbar from '../components/navbar'; 
+import Footer from '../components/footer'; 
 
 const inter = Inter({ subsets: ['latin'] });
 
